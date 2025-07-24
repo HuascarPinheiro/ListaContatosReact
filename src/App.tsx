@@ -1,26 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import ContatoForm from './components/ContatoForm/ContatoForm'
+import ListaContatos from './components/ListaContatos/ListaContatos'
+import GlobalStyle, { Container } from './styles/global'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <GlobalStyle />
+      <Container>
+        <h1>Lista de Contatos</h1>
+        <ContatoForm />
+        <ListaContatos />
+      </Container>
+    </>
+  )
 }
 
-export default App;
+export default App
