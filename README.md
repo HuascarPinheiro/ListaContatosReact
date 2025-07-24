@@ -43,3 +43,11 @@ npm install
 
 # Rode a aplicação
 npm run dev
+```
+---
+
+## Autor: 
+Feito por Huascar Pinheiro
+[GitHub](https://github.com/HuascarPinheiro)
+[LinkedIn](https://www.linkedin.com/in/huascarpinheiro/)
+
