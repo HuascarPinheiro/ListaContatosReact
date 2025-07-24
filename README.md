@@ -22,7 +22,6 @@ Projeto simples de gerenciamento de contatos desenvolvido com:
 - Adicionar novos contatos
 - Editar nome, e-mail e telefone
 - Remover contatos da lista
-- Aplicação de máscara para o campo de telefone
 
 ---
 
@@ -35,7 +34,6 @@ Projeto simples de gerenciamento de contatos desenvolvido com:
 - [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [uuid](https://www.npmjs.com/package/uuid)
-- [react-input-mask](https://www.npmjs.com/package/react-input-mask)
 
 ---
 
