@@ -13,7 +13,6 @@ Aplicação simples de lista de contatos feita com:
 - Adicionar contatos
 - Editar nome, e-mail e telefone
 - Remover contatos da lista
-- Máscara de telefone com validação
 
 ---
 
