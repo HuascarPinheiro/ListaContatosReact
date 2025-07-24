@@ -6,9 +6,8 @@ Projeto simples de gerenciamento de contatos desenvolvido com:
 - 📦 **Redux Toolkit**
 - 🎨 **Styled Components**
 - ✨ **TypeScript**
-- 🧠 **Redux para estado**
-- 📱 **Máscara de telefone**
-- 💾 Armazenamento em memória
+
+
 
 ---
 
