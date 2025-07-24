@@ -8,12 +8,6 @@ Aplicação simples de lista de contatos feita com:
 
 ---
 
-## Preview
-
-<img src="./screenshot.png" alt="Print da aplicação" width="600" />
-
----
-
 ## Funcionalidades
 
 - Adicionar contatos
