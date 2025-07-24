@@ -42,7 +42,7 @@ cd lista-contatos
 npm install
 
 # Rode a aplicação
-npm run dev
+npm start
 ```
 ---
 
