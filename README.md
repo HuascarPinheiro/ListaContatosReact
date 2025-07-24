@@ -1,53 +1,51 @@
 # Lista de Contatos
 
-Projeto simples de gerenciamento de contatos desenvolvido com:
+Aplicação simples de lista de contatos feita com:
 
-- ⚛️ **React**
-- 📦 **Redux Toolkit**
-- 🎨 **Styled Components**
-- ✨ **TypeScript**
-
-
+- React + TypeScript
+- Styled Components
+- Redux Toolkit
 
 ---
 
 ## Preview
 
-<img src="https://user-images.githubusercontent.com/0000000/preview.png" alt="preview" width="600" />
+<img src="./screenshot.png" alt="Print da aplicação" width="600" />
 
 ---
 
 ## Funcionalidades
 
-- Adicionar novos contatos
+- Adicionar contatos
 - Editar nome, e-mail e telefone
 - Remover contatos da lista
+- Máscara de telefone com validação
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias
 
 - [React](https://reactjs.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [React Redux](https://react-redux.js.org/)
 - [Styled Components](https://styled-components.com/)
-- [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 - [uuid](https://www.npmjs.com/package/uuid)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
 
 ---
 
-## Instalação
+## Como rodar localmente
 
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/lista-contatos.git
+# Clone o projeto
+git clone https://github.com/HuascarPinheiro/lista-contatos.git
 
-# Acesse a pasta do projeto
+# Acesse a pasta
 cd lista-contatos
 
 # Instale as dependências
 npm install
 
-# Inicie o servidor de desenvolvimento
+# Rode a aplicação
 npm run dev
